@@ -6,8 +6,8 @@
       "name": "SISUS App",
       "package": "com.goia.sisus.app_sup",
       "version": {
-        "code": 10001,
-        "name": "1.0.1"
+        "code": 10002,
+        "name": "1.0.2"
       }
     }
   }
